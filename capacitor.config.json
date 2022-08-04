@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TempoDoInferno",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

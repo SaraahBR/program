@@ -1,0 +1,8 @@
+{
+  "name": "TempoDoInferno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "925614b7"
+}
